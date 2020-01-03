@@ -1,0 +1,21 @@
+<OGRVRTDataSource>
+  <OGRVRTLayer name="river-water-quality-raw-data-by-site-1975-2013">
+    <SrcDataSource relativeToVRT="1">river-water-quality-raw-data-by-site-1975-2013.csv</SrcDataSource>
+    <FeatureCount>732014</FeatureCount>
+    <Field name="nemarid" src="nemarid" type="String" />
+    <Field name="lawaid" src="lawaid" type="String" />
+    <Field name="rcid" src="rcid" type="String" />
+    <Field name="srcid" src="srcid" type="String" />
+    <Field name="sflag" src="sflag" type="String" />
+    <Field name="river" src="river" type="String" />
+    <Field name="location" src="location" type="String" />
+    <Field name="nzmge" src="nzmge" type="String" />
+    <Field name="nzmgn" src="nzmgn" type="String" />
+    <Field name="nzreach" src="nzreach" type="String" />
+    <Field name="sdate" src="sdate" type="String" />
+    <Field name="Q" src="Q" type="String" />
+    <Field name="lpid" src="lpid" type="String" />
+    <Field name="npid" src="npid" type="String" />
+    <Field name="fdval" src="fdval" type="String" />
+  </OGRVRTLayer>
+</OGRVRTDataSource>
